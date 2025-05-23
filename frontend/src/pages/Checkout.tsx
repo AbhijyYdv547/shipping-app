@@ -1,4 +1,3 @@
-import React from 'react';
 import CheckoutHeader from '../components/CheckoutHeader';
 import ShippingAddressForm from '../components/ShippingAddressForm';
 import OrderSummary from '../components/OrderSummary';

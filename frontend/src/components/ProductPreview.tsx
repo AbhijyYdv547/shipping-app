@@ -57,7 +57,7 @@ const ProductPreview = () => {
               <a href="#" className="text-blue-600 text-sm hover:underline">Size chart</a>
             </div>
             <div className="flex flex-wrap gap-3">
-              {product.sizes.map((size, index) => (
+              {product.sizes.map((size) => (
                 <button
                   key={size}
                   // No onClick handler here, as per request
