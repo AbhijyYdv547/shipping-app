@@ -1,4 +1,3 @@
-import React from "react";
 import video from "../assets/Eclypse-video.mp4"
 import logo from "../assets/logo.jpg"
 import crumbled from "../assets/Crumbled-jacket.jpg"

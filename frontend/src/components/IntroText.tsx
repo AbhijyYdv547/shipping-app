@@ -1,4 +1,3 @@
-import React from "react";
 
 const IntroText = () => (
   <section className="bg-black text-white px-6 py-16 sm:px-12 md:px-20">

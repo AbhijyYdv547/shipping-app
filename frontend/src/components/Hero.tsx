@@ -1,4 +1,3 @@
-import React from "react";
 import video from "../assets/Eclypse-video.mp4"
 
 const Hero = () => {
