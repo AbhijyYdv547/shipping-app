@@ -18,8 +18,11 @@ It allows users to submit and store shipping addresses.
 ```
 
 root/
+
 ├── frontend/       # React frontend
+
 ├── backend/       # Express backend
+
 └── README.md
 
 ````
