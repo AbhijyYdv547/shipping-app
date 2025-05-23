@@ -3,7 +3,7 @@ import logo from "../assets/logo.jpg"
 import { useNavigate } from 'react-router-dom';
 
 const Header = () => (
-  const navigate = useNavigate();
+  let navigate = useNavigate();
   <header className="w-full fixed top-0 z-50 bg-black/30 backdrop-blur-md border-b border-white/10">
     <div className="max-w-7xl mx-auto flex justify-between items-center px-4 py-3">
       {/* Logo */}
